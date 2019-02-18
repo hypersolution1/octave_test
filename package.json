@@ -1,0 +1,17 @@
+{
+  "name": "touchtunes-test",
+  "version": "1.0.0",
+  "description": "Take-Home test",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}

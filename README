@@ -1,0 +1,10 @@
+#test
+npm test
+
+#Bonus 1: docker
+docker build -t touchtunes .
+docker run -ti touchtunes
+
+#Bonus 2: API using express
+node server.js
+# http://localhost:3000/settings
